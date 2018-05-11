@@ -1,1 +1,2 @@
-make linear regression from scratch
+linear regression exercise
+without using higher level libraries
